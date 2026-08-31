@@ -3,6 +3,7 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
+new code written by dev 1 without pull the code
 
 //dev 2 code
 
@@ -17,4 +18,6 @@ public class EvenOdd {
         }
     }
 }
+
+
 

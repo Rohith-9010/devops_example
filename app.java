@@ -3,7 +3,7 @@ public class HelloWorld {
         System.out.println("Hello, World!");
         // this is comment 
         //comments are helpful
-         System.out.println("Jenkins                   class !");
+         System.out.println("Jenkins class !");
     }
 }
 new code written by dev 1 without pull the code

@@ -1,6 +1,8 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
+        // this is comment 
+         System.out.println("Jenkins class !");
     }
 }
 new code written by dev 1 without pull the code
